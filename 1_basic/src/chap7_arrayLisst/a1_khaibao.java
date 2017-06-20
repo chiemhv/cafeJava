@@ -26,8 +26,9 @@ public class a1_khaibao {
         names.add("deo hieu sao bjo chưa ngu");
         // hiển thị các phần tử trong mảng 
             System.out.println(names);
-            
         
+            
+        ArrayList<String> name = new ArrayList<>();
          
     }
 }
